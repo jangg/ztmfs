@@ -36,6 +36,7 @@ $html = '';
 					
 
 /* Het opmaken van 4 nieuwsitems */
+/* Dit is de originele tak */
 
 $i = 0;
 foreach ($newsitemColl->newsitemColl as $newsitem) {
