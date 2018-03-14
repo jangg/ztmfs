@@ -1,4 +1,7 @@
 <?php
+
+// Wat een vervelend gedoe
+
 include_once ('config.php');
 
 $show_result = FALSE;
